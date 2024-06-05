@@ -1,3 +1,4 @@
+## ResSAT: Enhancing Spatial Transcriptomics Prediction from H&E-Stained Histology Images with Interactive Spot Transformer
 
 To harness the potential of H&E image patches for gene expression prediction, our initial step involves leveraging established deep learning architectures such as ResNet50 for feature extraction. 
 
